@@ -1,0 +1,97 @@
+Name,Region,Language,Profession,Income,Age,OwnsSmartphone,InternetUsageHours,MaritalStatus,ProductBought
+Amit,Metro,English,Businessman,85000,45,Yes,5,Married,Credit Card
+Sita,Village,Hindi,Farmer,22000,38,No,1,Married,Loan
+Ravi,Metro,English,Student,18000,22,Yes,4,Single,Savings Account
+Anita,Metro,Hindi,Businessman,72000,40,Yes,3,Married,Insurance
+Raj,Metro,English,Businessman,90000,50,Yes,6,Married,Credit Card
+Sunita,Village,Hindi,Farmer,15000,55,No,1,Married,Loan
+Neha,Metro,English,Student,20000,20,Yes,5,Single,Digital Wallet
+Rakesh,Village,Hindi,Businessman,60000,42,No,2,Married,Mutual Fund
+Meena,Metro,English,Other,40000,33,Yes,3,Single,Savings Account
+Vikram,Village,Hindi,Farmer,25000,48,No,1,Married,Loan
+Pooja,Metro,English,Businessman,78000,37,Yes,4,Single,Credit Card
+Ajay,Village,Hindi,Farmer,27000,50,No,1,Married,Loan
+Divya,Metro,English,Student,23000,23,Yes,4,Single,Digital Wallet
+Kiran,Metro,Hindi,Businessman,65000,44,Yes,3,Married,Insurance
+Arjun,Metro,English,Businessman,83000,41,Yes,5,Married,Credit Card
+Lakshmi,Village,Hindi,Farmer,18000,52,No,1,Married,Loan
+Tina,Metro,English,Student,21000,21,Yes,4,Single,Savings Account
+Suresh,Metro,Hindi,Businessman,55000,46,Yes,3,Married,Mutual Fund
+Geeta,Metro,English,Other,48000,35,Yes,4,Single,Credit Card
+Manoj,Village,Hindi,Farmer,30000,39,No,1,Married,Loan
+Nikhil,Metro,English,Businessman,88000,43,Yes,6,Married,Credit Card
+Kavita,Village,Hindi,Farmer,20000,50,No,1,Married,Loan
+Rahul,Metro,English,Student,19000,24,Yes,5,Single,Digital Wallet
+Deepa,Metro,Hindi,Businessman,71000,42,Yes,3,Married,Insurance
+Sanjay,Metro,English,Businessman,92000,49,Yes,6,Married,Credit Card
+Asha,Village,Hindi,Farmer,16000,56,No,1,Married,Loan
+Pallavi,Metro,English,Student,22000,22,Yes,4,Single,Savings Account
+Vijay,Village,Hindi,Businessman,58000,43,No,2,Married,Mutual Fund
+Rekha,Metro,English,Other,45000,34,Yes,3,Single,Savings Account
+Dinesh,Village,Hindi,Farmer,28000,47,No,1,Married,Loan
+Swati,Metro,English,Businessman,76000,38,Yes,5,Single,Credit Card
+Rajesh,Village,Hindi,Farmer,26000,51,No,1,Married,Loan
+Kiran,Metro,English,Student,24000,23,Yes,4,Single,Digital Wallet
+Manisha,Metro,Hindi,Businessman,64000,45,Yes,3,Married,Insurance
+Sunil,Metro,English,Businessman,81000,40,Yes,5,Married,Credit Card
+Gita,Village,Hindi,Farmer,21000,54,No,1,Married,Loan
+Ritika,Metro,English,Student,20500,21,Yes,4,Single,Savings Account
+Kumar,Metro,Hindi,Businessman,57000,44,Yes,3,Married,Mutual Fund
+Sneha,Metro,English,Other,47000,36,Yes,4,Single,Credit Card
+Ashok,Village,Hindi,Farmer,31000,38,No,1,Married,Loan
+Naina,Metro,English,Businessman,79000,39,Yes,5,Single,Credit Card
+Varun,Village,Hindi,Farmer,23000,49,No,1,Married,Loan
+Pooja,Metro,English,Student,19500,22,Yes,4,Single,Digital Wallet
+Kailash,Metro,Hindi,Businessman,68000,41,Yes,3,Married,Insurance
+Rajiv,Metro,English,Businessman,85000,45,Yes,6,Married,Credit Card
+Seema,Village,Hindi,Farmer,17000,53,No,1,Married,Loan
+Tara,Metro,English,Student,21000,20,Yes,4,Single,Savings Account
+Rohit,Village,Hindi,Businessman,59000,44,No,2,Married,Mutual Fund
+Anil,Metro,English,Businessman,83000,42,Yes,5,Married,Credit Card
+Megha,Village,Hindi,Farmer,25000,50,No,1,Married,Loan
+Rhea,Metro,English,Student,22000,23,Yes,4,Single,Digital Wallet
+Sahil,Metro,Hindi,Businessman,70000,39,Yes,3,Married,Insurance
+Ketan,Metro,English,Businessman,88000,48,Yes,6,Married,Credit Card
+Kamla,Village,Hindi,Farmer,18000,55,No,1,Married,Loan
+Ananya,Metro,English,Student,21000,21,Yes,4,Single,Savings Account
+Bhavesh,Village,Hindi,Businessman,62000,43,No,2,Married,Mutual Fund
+Neeta,Metro,English,Other,46000,34,Yes,3,Single,Savings Account
+Harish,Village,Hindi,Farmer,27000,46,No,1,Married,Loan
+Jaya,Metro,English,Businessman,77000,37,Yes,5,Single,Credit Card
+Kumar,Village,Hindi,Farmer,29000,49,No,1,Married,Loan
+Divya,Metro,English,Student,23500,24,Yes,4,Single,Digital Wallet
+Mahesh,Metro,Hindi,Businessman,66000,44,Yes,3,Married,Insurance
+Nitin,Metro,English,Businessman,84000,41,Yes,5,Married,Credit Card
+Parvati,Village,Hindi,Farmer,19000,53,No,1,Married,Loan
+Tanya,Metro,English,Student,21500,22,Yes,4,Single,Savings Account
+Ramesh,Metro,Hindi,Businessman,56000,45,Yes,3,Married,Mutual Fund
+Sonal,Metro,English,Other,49000,35,Yes,4,Single,Credit Card
+Vikas,Village,Hindi,Farmer,32000,40,No,1,Married,Loan
+Pooja,Metro,English,Businessman,78000,39,Yes,5,Single,Credit Card
+Chandni,Village,Hindi,Farmer,24000,48,No,1,Married,Loan
+Akash,Metro,English,Student,20000,23,Yes,4,Single,Digital Wallet
+Lalita,Metro,Hindi,Businessman,69000,42,Yes,3,Married,Insurance
+Mohit,Metro,English,Businessman,86000,47,Yes,6,Married,Credit Card
+Rupa,Village,Hindi,Farmer,17000,52,No,1,Married,Loan
+Simran,Metro,English,Student,22500,21,Yes,4,Single,Savings Account
+Sunil,Village,Hindi,Businessman,60000,44,No,2,Married,Mutual Fund
+Meera,Metro,English,Other,45500,33,Yes,3,Single,Savings Account
+Naveen,Village,Hindi,Farmer,28000,45,No,1,Married,Loan
+Divya,Metro,English,Businessman,76000,38,Yes,5,Single,Credit Card
+Manoj,Village,Hindi,Farmer,26000,50,No,1,Married,Loan
+Priti,Metro,English,Student,19500,22,Yes,4,Single,Digital Wallet
+Ramesh,Metro,Hindi,Businessman,67000,43,Yes,3,Married,Insurance
+Amit,Metro,English,Businessman,84000,44,Yes,6,Married,Credit Card
+Seema,Village,Hindi,Farmer,16000,54,No,1,Married,Loan
+Tina,Metro,English,Student,21000,20,Yes,4,Single,Savings Account
+Rohit,Village,Hindi,Businessman,61000,45,No,2,Married,Mutual Fund
+Kavya,Metro,English,Other,48000,36,Yes,4,Single,Credit Card
+Ajay,Village,Hindi,Farmer,31000,41,No,1,Married,Loan
+Naina,Metro,English,Businessman,79000,40,Yes,5,Single,Credit Card
+Varun,Village,Hindi,Farmer,23000,47,No,1,Married,Loan
+Pooja,Metro,English,Student,18500,22,Yes,4,Single,Digital Wallet
+Kailash,Metro,Hindi,Businessman,68000,42,Yes,3,Married,Insurance
+Rajiv,Metro,English,Businessman,85000,44,Yes,6,Married,Credit Card
+Seema,Village,Hindi,Farmer,17000,53,No,1,Married,Loan
+Tara,Metro,English,Student,21000,21,Yes,4,Single,Savings Account
+Rohit,Village,Hindi,Businessman,59000,43,No,2,Married,Mutual Fund

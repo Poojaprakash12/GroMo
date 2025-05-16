@@ -1,0 +1,101 @@
+Name,Region,Language,Profession,Interest,Income Range,Products
+Vivaan,Metro,Kannada,Businessman,Savings,10k-20k,"['Credit Card', 'Family Insurance', 'Accident Insurance']"
+Vivaan,Village,Telugu,Student,Online Shopping,<10k,['Savings Account']
+Arjun,Village,English,Shopkeeper,Savings,>30k,['Life Insurance']
+Krishna,City,English,Businessman,Travel,20k-30k,"['Savings Account', 'Loan']"
+Kabir,Metro,English,Driver,Online Shopping,20k-30k,"['Accident Insurance', 'Health Insurance']"
+Aarav,Village,Telugu,Shopkeeper,Online Shopping,>30k,['Accident Insurance']
+Ishaan,Village,Kannada,Shopkeeper,Savings,<10k,['Family Insurance']
+Sai,City,English,Businessman,Online Shopping,>30k,"['Life Insurance', 'Family Insurance']"
+Kabir,Metro,Kannada,Teacher,Savings,20k-30k,"['Family Insurance', 'Loan', 'Credit Card']"
+Krishna,Village,Hindi,Shopkeeper,Savings,10k-20k,"['Life Insurance', 'Health Insurance']"
+Arjun,Metro,Kannada,Student,Savings,<10k,"['Life Insurance', 'Health Insurance']"
+Vivaan,Metro,Kannada,Businessman,Travel,>30k,"['Life Insurance', 'Savings Account', 'Health Insurance']"
+Aditya,Metro,Kannada,Shopkeeper,Travel,>30k,"['Savings Account', 'Loan']"
+Arjun,City,English,Student,Online Shopping,10k-20k,"['Savings Account', 'Family Insurance', 'Life Insurance']"
+Krishna,Metro,Telugu,Driver,Family,>30k,"['Health Insurance', 'Accident Insurance', 'Credit Card']"
+Vivaan,Village,Kannada,Teacher,Online Shopping,20k-30k,"['Savings Account', 'Life Insurance']"
+Aarav,Village,Kannada,Shopkeeper,Savings,<10k,"['Health Insurance', 'Family Insurance', 'Accident Insurance']"
+Krishna,Metro,Hindi,Teacher,Savings,<10k,"['Health Insurance', 'Life Insurance', 'Credit Card']"
+Vivaan,City,Kannada,Businessman,Online Shopping,10k-20k,"['Credit Card', 'Loan', 'Life Insurance']"
+Vivaan,Village,Hindi,Businessman,Travel,10k-20k,"['Accident Insurance', 'Loan']"
+Reyansh,Metro,Hindi,Teacher,Travel,20k-30k,"['Accident Insurance', 'Life Insurance']"
+Vivaan,Metro,Hindi,Student,Health,<10k,"['Accident Insurance', 'Savings Account', 'Loan']"
+Sai,Metro,English,Student,Savings,<10k,['Loan']
+Kabir,Metro,Hindi,Teacher,Travel,10k-20k,"['Savings Account', 'Family Insurance', 'Accident Insurance']"
+Krishna,City,Hindi,Driver,Travel,10k-20k,['Credit Card']
+Reyansh,City,Telugu,Driver,Travel,<10k,"['Family Insurance', 'Loan', 'Credit Card']"
+Aarav,City,Kannada,Student,Savings,10k-20k,['Accident Insurance']
+Ayaan,Metro,Telugu,Businessman,Health,>30k,['Loan']
+Vivaan,City,English,Student,Family,<10k,['Loan']
+Sai,Metro,Telugu,Driver,Travel,10k-20k,"['Credit Card', 'Savings Account']"
+Reyansh,Metro,Telugu,Teacher,Travel,20k-30k,"['Family Insurance', 'Loan']"
+Arjun,Village,Telugu,Businessman,Savings,20k-30k,['Credit Card']
+Krishna,Village,English,Teacher,Online Shopping,<10k,"['Life Insurance', 'Accident Insurance', 'Family Insurance']"
+Aditya,Metro,English,Businessman,Online Shopping,<10k,"['Loan', 'Savings Account', 'Life Insurance']"
+Vivaan,Village,Hindi,Shopkeeper,Family,<10k,"['Credit Card', 'Life Insurance', 'Accident Insurance']"
+Krishna,Village,Kannada,Teacher,Savings,20k-30k,['Health Insurance']
+Reyansh,Metro,Kannada,Driver,Health,<10k,['Life Insurance']
+Krishna,Village,English,Student,Family,10k-20k,"['Health Insurance', 'Savings Account', 'Loan']"
+Vivaan,Metro,Kannada,Teacher,Savings,>30k,"['Family Insurance', 'Health Insurance', 'Accident Insurance']"
+Arjun,Metro,Kannada,Student,Savings,20k-30k,['Credit Card']
+Arjun,Metro,Kannada,Teacher,Family,10k-20k,"['Health Insurance', 'Savings Account', 'Loan']"
+Arjun,City,Kannada,Student,Online Shopping,>30k,"['Credit Card', 'Loan']"
+Kabir,Metro,Kannada,Businessman,Travel,>30k,"['Credit Card', 'Loan', 'Family Insurance']"
+Aditya,Village,English,Teacher,Family,10k-20k,"['Savings Account', 'Credit Card']"
+Ishaan,City,English,Teacher,Savings,10k-20k,"['Credit Card', 'Health Insurance', 'Accident Insurance']"
+Reyansh,Village,Hindi,Businessman,Savings,10k-20k,"['Credit Card', 'Savings Account']"
+Kabir,City,Hindi,Teacher,Savings,<10k,"['Loan', 'Credit Card']"
+Ayaan,Metro,Hindi,Driver,Health,20k-30k,['Savings Account']
+Aarav,Village,Hindi,Driver,Health,20k-30k,['Loan']
+Ishaan,City,Telugu,Shopkeeper,Health,<10k,['Health Insurance']
+Aditya,Village,Kannada,Student,Online Shopping,>30k,"['Family Insurance', 'Health Insurance']"
+Reyansh,Village,English,Driver,Family,10k-20k,"['Credit Card', 'Family Insurance']"
+Reyansh,Metro,Hindi,Teacher,Travel,<10k,"['Health Insurance', 'Accident Insurance', 'Loan']"
+Vivaan,Village,Kannada,Shopkeeper,Health,>30k,"['Life Insurance', 'Family Insurance']"
+Ishaan,Village,Hindi,Businessman,Travel,>30k,"['Family Insurance', 'Savings Account', 'Accident Insurance']"
+Krishna,City,Telugu,Shopkeeper,Online Shopping,20k-30k,"['Savings Account', 'Life Insurance']"
+Krishna,Village,Kannada,Driver,Travel,>30k,"['Savings Account', 'Accident Insurance', 'Life Insurance']"
+Aditya,Village,English,Teacher,Family,20k-30k,['Loan']
+Sai,Village,Kannada,Businessman,Savings,10k-20k,['Credit Card']
+Sai,City,English,Driver,Travel,10k-20k,"['Family Insurance', 'Life Insurance', 'Loan']"
+Reyansh,Metro,Hindi,Student,Online Shopping,>30k,['Savings Account']
+Arjun,City,English,Shopkeeper,Savings,<10k,"['Savings Account', 'Life Insurance']"
+Arjun,Village,Kannada,Driver,Family,>30k,"['Life Insurance', 'Savings Account', 'Loan']"
+Ayaan,City,Hindi,Teacher,Family,>30k,"['Savings Account', 'Health Insurance', 'Life Insurance']"
+Vivaan,Village,Kannada,Businessman,Health,20k-30k,"['Accident Insurance', 'Credit Card']"
+Aditya,Metro,Hindi,Driver,Savings,10k-20k,['Life Insurance']
+Reyansh,City,Telugu,Driver,Online Shopping,10k-20k,"['Life Insurance', 'Accident Insurance']"
+Aarav,Village,Telugu,Driver,Online Shopping,20k-30k,"['Loan', 'Life Insurance']"
+Reyansh,Village,Hindi,Driver,Savings,20k-30k,"['Life Insurance', 'Credit Card']"
+Reyansh,City,Telugu,Businessman,Travel,10k-20k,"['Accident Insurance', 'Credit Card', 'Life Insurance']"
+Krishna,Village,English,Student,Travel,10k-20k,"['Savings Account', 'Credit Card']"
+Ishaan,City,Kannada,Businessman,Travel,20k-30k,"['Loan', 'Life Insurance']"
+Ishaan,City,Kannada,Student,Travel,<10k,"['Accident Insurance', 'Credit Card', 'Health Insurance']"
+Sai,Village,English,Student,Online Shopping,10k-20k,['Loan']
+Aarav,Village,Hindi,Businessman,Savings,>30k,"['Credit Card', 'Accident Insurance', 'Savings Account']"
+Ayaan,Village,Kannada,Teacher,Savings,<10k,['Health Insurance']
+Vivaan,Village,English,Teacher,Family,>30k,"['Family Insurance', 'Savings Account']"
+Vivaan,Village,Hindi,Student,Health,<10k,"['Loan', 'Credit Card', 'Health Insurance']"
+Arjun,City,Kannada,Student,Family,20k-30k,['Loan']
+Reyansh,City,English,Driver,Health,>30k,"['Savings Account', 'Life Insurance', 'Loan']"
+Arjun,Village,Kannada,Shopkeeper,Family,>30k,"['Life Insurance', 'Family Insurance']"
+Krishna,City,Kannada,Businessman,Online Shopping,20k-30k,"['Savings Account', 'Life Insurance']"
+Krishna,Village,Telugu,Teacher,Online Shopping,>30k,"['Savings Account', 'Life Insurance']"
+Sai,City,Kannada,Teacher,Health,20k-30k,"['Credit Card', 'Accident Insurance', 'Savings Account']"
+Vivaan,Metro,Telugu,Driver,Family,10k-20k,"['Life Insurance', 'Family Insurance', 'Loan']"
+Ayaan,Metro,English,Teacher,Savings,>30k,"['Savings Account', 'Health Insurance', 'Accident Insurance']"
+Kabir,City,Kannada,Driver,Family,20k-30k,"['Family Insurance', 'Life Insurance']"
+Ishaan,City,Kannada,Businessman,Online Shopping,10k-20k,"['Credit Card', 'Family Insurance']"
+Arjun,Village,Hindi,Businessman,Savings,>30k,"['Family Insurance', 'Accident Insurance']"
+Arjun,Village,Kannada,Student,Savings,20k-30k,['Health Insurance']
+Aditya,City,English,Shopkeeper,Savings,20k-30k,['Credit Card']
+Arjun,City,Hindi,Driver,Online Shopping,<10k,"['Health Insurance', 'Life Insurance', 'Family Insurance']"
+Ayaan,City,Hindi,Student,Health,>30k,['Loan']
+Vivaan,City,Telugu,Student,Family,<10k,['Savings Account']
+Krishna,City,English,Businessman,Online Shopping,>30k,"['Accident Insurance', 'Loan', 'Savings Account']"
+Arjun,City,Telugu,Driver,Health,>30k,"['Accident Insurance', 'Loan']"
+Aarav,Village,English,Businessman,Savings,20k-30k,"['Credit Card', 'Savings Account', 'Family Insurance']"
+Aditya,Village,English,Businessman,Online Shopping,>30k,"['Family Insurance', 'Accident Insurance']"
+Ayaan,City,English,Businessman,Health,20k-30k,"['Loan', 'Life Insurance', 'Credit Card']"
+Sai,City,Hindi,Driver,Online Shopping,10k-20k,"['Savings Account', 'Health Insurance', 'Loan']"
